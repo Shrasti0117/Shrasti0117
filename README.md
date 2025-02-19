@@ -1,4 +1,4 @@
-![logo](https://github.com/Shrasti0117/Shrasti0117/blob/main/Shrasti%20guptaaa.png)
+![logo](https://github.com/Shrasti0117/Shrasti0117/blob/main/Shrasti%20gupta.png)
 
 <h1 align="center">Hi 👋, I'm Shrasti Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
